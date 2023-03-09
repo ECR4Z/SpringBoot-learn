@@ -1,0 +1,7 @@
+users:
+  name: zhang
+  pwd: 123
+  email: 1231@qq.com
+  sex: true
+  age: 110
+  work: 11

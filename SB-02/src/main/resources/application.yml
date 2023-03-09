@@ -1,0 +1,11 @@
+users:
+  id: 1
+  name: ming
+  map: {k1: v1,k2: v2}
+  list:
+    - code
+    - sing
+    - music
+  user:
+    id: 2
+    name: zzz
